@@ -34,7 +34,7 @@ Target	|Change to Name
 ```
    TODO 这是排除 同一个label(title) 有不同的条件 可以通过以下的方法去排除
 ```
-
+然后 改变规则 再去运行这个命令
 ```shell
 
 go run main.go  update //
